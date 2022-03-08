@@ -1,0 +1,18 @@
+{
+  "title": "SmartGeo | Routing Homepage",
+  "titleTemplate": "%s - Routing Homepage",
+  "description": "A azure blob storage explorer with next.js",
+  "openGraph": {
+    "title": "SmartGeo | Routing Homepage",
+    "description": "Routing Homepage with next.js",
+    "type": "website",
+    "locale": "en_US",
+    "url": "https://google.com",
+    "site_name": "Routing Homepage"
+  },
+  "twitter": {
+    "handle": "@nextjs",
+    "site": "@nextjs",
+    "cardType": "summary_large_image"
+  }
+}
